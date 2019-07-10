@@ -1,0 +1,3 @@
+trip_id,ft_cnt_vehicle_deaccel_val,ft_sum_time_accel_val,ft_sum_time_deaccel_val,ft_cnt_vehicle_accel_val,ft_sum_hard_brakes_10_flg_val,ft_sum_hard_brakes_3_flg_val,ft_sum_hard_accel_10_flg_val,ft_sum_hard_accel_3_flg_val
+2c677d1b84a1455ca08a53770e34e024,2989,4471,4457,2988,228,1975,193,2021
+2e58ce33418c4ec5b287ad35012dc9b5,2998,4580,4448,2998,154,2012,143,1982

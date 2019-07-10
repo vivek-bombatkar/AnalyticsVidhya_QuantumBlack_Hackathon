@@ -1,0 +1,4 @@
+vehicle_id,week_start_date,ft_torque_util_60pct_s,ft_torque_util_70pct_s,ft_torque_util_80pct_s,ft_torque_util_90pct_s,ft_horsepower_util_50pct_s,ft_horsepower_util_60pct_s,ft_horsepower_util_70pct_s,ft_horsepower_util_80pct_s,ft_rpm_util_50pct_s,ft_rpm_util_60pct_s
+1000501,2017-06-12,865,346,654,7423,2662,422,3434,76,10941,434
+1000503,2017-05-28,788,754,673,7853,864,324,653,7534,424,7534
+1000504,2017-02-13,149,7734,7543,7534,4432,4774,34334,6753,765,7534
