@@ -1,22 +1,16 @@
 # ACRTA-road-taxation-data-engineering
 
-> https://datahack.analyticsvidhya.com/contest/quantumblack-online-hackathon/  
+This repo is about my solution towards the hackathon arranged by AnalyticsVidhya for QuantumBlack.
 
-Kaggle kernal : https://www.kaggle.com/bombatkarvivek/acrta-road-taxation-data-engineering  
+> Hack link: https://datahack.analyticsvidhya.com/contest/quantumblack-online-hackathon/   
 
-- Architechture:  
-Kedro:   
-PySpark: Processing engine    
+> Kaggle kernal for EDA:https://www.kaggle.com/bombatkarvivek/acrta-road-taxation-data-engineering    
 
-- Libs:    
-kedro  
-pyspark   
-pandas  
-panda_profiler  
-matplotlib  
+> Read more about KEDRO here: https://github.com/quantumblacklabs/kedro   
 
-
-- Link to EDA notebook with pySpark (Databricks server):    
+- Tools used:  
+Kedro:    
+PySpark: Processing engine     
  
+Code could be found under `code/src/`  
 
-- 
